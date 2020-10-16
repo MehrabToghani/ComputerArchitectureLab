@@ -1,7 +1,9 @@
 C:/Users/Mehrab/Documents/ModelSim/FullAdder64/FullAdder64.v {2 {vlog -work work -vopt -stats=none C:/Users/Mehrab/Documents/ModelSim/FullAdder64/FullAdder64.v
 Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module FullAdder
+** Warning: C:/Users/Mehrab/Documents/ModelSim/FullAdder64/FullAdder64.v(8): (vlog-2283) Extra semicolon in $unit (global) scope.
 -- Compiling module main
-** Warning: C:/Users/Mehrab/Documents/ModelSim/FullAdder64/FullAdder64.v(6): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/Mehrab/Documents/ModelSim/FullAdder64/FullAdder64.v(25): (vlog-2283) Extra semicolon in $unit (global) scope.
 
 Top level modules:
 	main
