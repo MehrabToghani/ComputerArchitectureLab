@@ -1,0 +1,68 @@
+m255
+K4
+z2
+!s11f vlog 2019.4 2019.10, Oct 15 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_2019.4/examples
+T_opt
+!s110 1602957860
+VFIHflWMH5djPaOh035E4i0
+04 4 4 work main fast 0
+=1-e03f49d95cdd-5f8b3224-17f-2b10
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2019.4;69
+R0
+vFullAdder64
+!s110 1602957837
+!i10b 1
+!s100 PbR@]K8<]AGXBNLlKG4[F0
+!s11b `dD=Lk<[Z7Z?VT]X0SE022
+IQUh`l=ee:]d]W_be;_dz[0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Mehrab/Documents/ModelSim/FullAdder64
+w1602957320
+Z4 8C:/Users/Mehrab/Documents/ModelSim/FullAdder64/FullAdder64.v
+Z5 FC:/Users/Mehrab/Documents/ModelSim/FullAdder64/FullAdder64.v
+!i122 -1
+L0 1
+Z6 OL;L;2019.4;69
+r1
+!s85 0
+31
+!s108 1602957837.000000
+!s107 C:/Users/Mehrab/Documents/ModelSim/FullAdder64/FullAdder64.v|
+Z7 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Mehrab/Documents/ModelSim/FullAdder64/FullAdder64.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@full@adder64
+vmain
+!s110 1602958302
+!i10b 1
+!s100 >MomPeWmBPB=dgmN_Q4i_0
+!s11b efm6kdXC>_GBnOF_bggY60
+IZQ?ka;;W]]RhaoDM4G3Mg2
+R2
+R3
+w1602958301
+R4
+R5
+!i122 -1
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1602958302.000000
+Z9 !s107 C:/Users/Mehrab/Documents/ModelSim/FullAdder64/FullAdder64.v|
+R7
+!i113 0
+R8
+R1
