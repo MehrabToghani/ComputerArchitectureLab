@@ -1,11 +1,9 @@
 module FullAdder ( X, Y, CarryIn, Sum, CarryOut );
 	input wire X , Y;
 	input wire CarryIn;
-	output reg Sum;
-	output reg CarryOut;
-	always @(*)
-		begin
-		assign Sum = X ^ Y ^ CarryIn;
-		assign CarryOut = (X & Y) | ((X ^ Y) & CarryIn);
-		end
+	output Sum;
+	output CarryOut;
+	assign Sum = X ^ Y ^ CarryIn;
+	assign CarryOut = (X & Y) | ((X ^ Y) & CarryIn);
 endmodule
+

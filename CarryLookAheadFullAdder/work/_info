@@ -8,84 +8,117 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-dC:/modeltech64_2019.4/examples
+Z0 dC:/modeltech64_2019.4/examples
 T_opt
 !s110 1603133564
 VCB2LFbcmEXPO>X^:TG7V=1
 04 4 4 work main fast 0
 =1-e03f49d95cdd-5f8de07b-326-1788
-o-quiet -auto_acc_if_foreign -work work
-Z0 tCvgOpt 0
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
 n@_opt
-OL;O;2019.4;69
+Z3 OL;O;2019.4;69
+R0
+T_opt1
+!s110 1603136918
+Vh<HR9QNAT4T9I^TP0kEnC0
+04 4 4 work test fast 0
+=1-e03f49d95cdd-5f8ded96-208-3070
+R1
+R2
+n@_opt1
+R3
 vFullAdder
-!s110 1603131477
+Z4 !s110 1603136807
 !i10b 1
 !s100 c4M9Vi_]Zf[_WnNIeUN2=3
 !s11b kShh4Q^O2`a_;C`g4Eh[33
-I^dKfemeng[0_[YiD[m6fG3
-Z1 VDg1SIo80bB@j0V0VzS_@n1
-Z2 dC:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder
-w1603131475
-8C:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/FullAdder.v
-FC:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/FullAdder.v
+I<l=G<REGU9o@4cO^ILF]P2
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dC:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder
+w1603136702
+8FullAdder.v
+FFullAdder.v
 !i122 -1
 L0 1
-Z3 OL;L;2019.4;69
+Z7 OL;L;2019.4;69
 r1
 !s85 0
 31
-!s108 1603131477.000000
-!s107 C:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/FullAdder.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/FullAdder.v|
+Z8 !s108 1603136807.000000
+Z9 !s107 FullAdder.v|FullAdderN.v|C:\Users\Mehrab\Documents\ModelSim\CarryLookAheadFullAdder\main.v|
+Z10 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\Mehrab\Documents\ModelSim\CarryLookAheadFullAdder\main.v|
 !i113 0
-Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
-R0
+Z11 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
 n@full@adder
 vFullAdderN
-!s110 1603133553
+R4
 !i10b 1
-!s100 h<AVkbOD;C_dAff_?Q^cb1
+!s100 K3LDl3jGL]RH[RaMGAASh1
 !s11b NE3PC2JV^L8PMWSLU^IFU3
-I]n]mGc=j0bfG=jQ@mzeN03
-R1
-R2
-w1603133551
-8C:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/CarryLookAheadFullAdder.v
-FC:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/CarryLookAheadFullAdder.v
+Iz^1R2l>k_AEc@VGm<STVg0
+R5
+R6
+w1603136498
+8FullAdderN.v
+FFullAdderN.v
 !i122 -1
-L0 1
-R3
+L0 3
+R7
 r1
 !s85 0
 31
-!s108 1603133553.000000
-!s107 C:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/CarryLookAheadFullAdder.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/CarryLookAheadFullAdder.v|
+R8
+R9
+R10
 !i113 0
-R4
-R0
+R11
+R2
 n@full@adder@n
 vmain
-!s110 1603131371
+!s110 1603136709
 !i10b 1
-!s100 3=:ZZ2cgXbCl3]kEZojmF1
-!s11b 3GDRY8z8KkBF5i<Ym3e<D3
-Id@knN^Y?3_1FSEMK><j:d3
-R1
-R2
-w1603130213
+!s100 8VC5[Q?@SNCWB7?9i9P3d0
+Z12 !s11b 3GDRY8z8KkBF5i<Ym3e<D3
+IKaWH`Q2T?kF9DZN>0S<G:3
+R5
+R6
+w1603136533
 8C:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/main.v
 FC:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/main.v
 !i122 -1
-L0 1
-R3
+L0 3
+R7
 r1
 !s85 0
 31
-!s108 1603131371.000000
-!s107 C:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/main.v|
+!s108 1603136709.000000
+!s107 FullAdder.v|FullAdderN.v|C:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/main.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/main.v|
 !i113 0
+R11
+R2
+vtest
 R4
-R0
+!i10b 1
+!s100 e815dAb0?B1JZkF74>Te^0
+R12
+IYdUz5YC8D0@G^Wm@Gl1:M2
+R5
+R6
+w1603136805
+8C:\Users\Mehrab\Documents\ModelSim\CarryLookAheadFullAdder\main.v
+FC:\Users\Mehrab\Documents\ModelSim\CarryLookAheadFullAdder\main.v
+!i122 -1
+L0 3
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R2

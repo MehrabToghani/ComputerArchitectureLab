@@ -1,3 +1,5 @@
+`include "carry-look-ahead.v"
+
 module FullAdderN ( X, Y, CarryIn, Sum, CarryOut );
 	parameter n = 1;
 	input wire [n-1:0] X , Y;
