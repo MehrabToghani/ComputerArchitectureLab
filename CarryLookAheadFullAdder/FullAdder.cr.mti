@@ -1,4 +1,4 @@
-C:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/main.v {1 {vlog -work work -vopt -stats=none {C:\Users\Mehrab\Documents\ModelSim\CarryLookAheadFullAdder\main.v}
+C:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/test.v {1 {vlog -work work -vopt -stats=none C:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/test.v
 Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
 -- Compiling module FullAdder
 -- Compiling module FullAdderN
@@ -7,7 +7,7 @@ Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
 Top level modules:
 	test
 
-} {} {}} C:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/FullAdderN.v {1 {vlog -work work -vopt -stats=none C:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/FullAdderN.v
+} {} {}} C:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/FullAdderN.v {1 {vlog -work work -vopt -stats=none {C:\Users\Mehrab\Documents\ModelSim\CarryLookAheadFullAdder\FullAdderN.v}
 Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
 -- Compiling module FullAdder
 -- Compiling module FullAdderN
@@ -15,7 +15,7 @@ Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
 Top level modules:
 	FullAdderN
 
-} {} {}} C:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/FullAdder.v {1 {vlog -work work -vopt -stats=none C:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/FullAdder.v
+} {} {}} C:/Users/Mehrab/Documents/ModelSim/CarryLookAheadFullAdder/FullAdder.v {1 {vlog -work work -vopt -stats=none {C:\Users\Mehrab\Documents\ModelSim\CarryLookAheadFullAdder\FullAdder.v}
 Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
 -- Compiling module FullAdder
 
