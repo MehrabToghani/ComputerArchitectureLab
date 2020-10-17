@@ -8,7 +8,7 @@ module FullAdder ( X, Y, CarryIn, Sum, CarryOut );
 		assign Sum = X ^ Y ^ CarryIn;
 		assign CarryOut = (X & Y) | ((X ^ Y) & CarryIn);
 		end
-endmodule;
+endmodule
 
 module FullAdderN ( X, Y, CarryIn, Sum, CarryOut );
 	parameter n = 1;
@@ -26,7 +26,7 @@ module FullAdderN ( X, Y, CarryIn, Sum, CarryOut );
 		FullAdder fullAdder(X[i], Y[i], InternalCarry[i], Sum[i], InternalCarry[i+1]);
 		end
 	endgenerate
-endmodule;
+endmodule
 
 module main;
 	reg [63:0] x ,y;
@@ -58,10 +58,10 @@ module main;
 		$display("%0d + %0d + %0d = %0d;  Carry out = %0d", x, y, carryIn, sum, carryOut);
 
 		#10 
-      		assign x = 99999999999;
+      		assign x = 999999999;
 		assign y = 1;
 		assign carryIn = 0;
 		#20 
 		$display("%0d + %0d + %0d = %0d;  Carry out = %0d", x, y, carryIn, sum, carryOut);
     		end
-endmodule;
+endmodule
