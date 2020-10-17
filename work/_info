@@ -8,85 +8,84 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-Z0 dC:/modeltech64_2019.4/examples
+dC:/modeltech64_2019.4/examples
 T_opt
-!s110 1603030588
-V^UGW97VkD9DVB=YPkfO2>1
+!s110 1603100547
+VnQi<bRki:]A6XemKaM3>z0
 04 4 4 work main fast 0
-=1-54271e36bb8d-5f8c4e3c-296-9ec
+=1-e03f49d95cdd-5f8d5f83-94-5f4
 o-quiet -auto_acc_if_foreign -work work
-Z1 tCvgOpt 0
+Z0 tCvgOpt 0
 n@_opt
 OL;O;2019.4;69
-R0
 vFullAdder
-Z2 !s110 1603031214
+Z1 !s110 1603100539
 !i10b 1
-!s100 @IJlU;J=@R@=3SQ=^2Hhh2
-Z3 !s11b Sdbzlzl3:e>gJ7_OaYoaF1
-I808=?13o<jSH7V4]N8dY30
-Z4 VDg1SIo80bB@j0V0VzS_@n1
-Z5 dC:/Users/Mehrab/Documents/ModelSim/FullAdder64
-Z6 w1603031211
-Z7 8C:/Users/Mehrab/Documents/ModelSim/FullAdder64/FullAdder64.v
-Z8 FC:/Users/Mehrab/Documents/ModelSim/FullAdder64/FullAdder64.v
+!s100 =<ka]OFQ;BG;GEaWS>mmd1
+!s11b BE[]F6>B:V>?niX8<8YA13
+I]bHLa<BUBm[4[<hI=3:z:3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Mehrab/Documents/ModelSim/FullAdder64
+Z4 w1603100535
+Z5 8C:/Users/Mehrab/Documents/ModelSim/FullAdder64/FullAdder64.v
+Z6 FC:/Users/Mehrab/Documents/ModelSim/FullAdder64/FullAdder64.v
 !i122 -1
 L0 1
-Z9 OL;L;2019.4;69
+Z7 OL;L;2019.4;69
 r1
 !s85 0
 31
-Z10 !s108 1603031213.000000
-Z11 !s107 C:/Users/Mehrab/Documents/ModelSim/FullAdder64/FullAdder64.v|
-Z12 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Mehrab/Documents/ModelSim/FullAdder64/FullAdder64.v|
+Z8 !s108 1603100539.000000
+Z9 !s107 C:/Users/Mehrab/Documents/ModelSim/FullAdder64/FullAdder64.v|
+Z10 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Mehrab/Documents/ModelSim/FullAdder64/FullAdder64.v|
 !i113 0
-Z13 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
-R1
+Z11 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
 n@full@adder
 vFullAdder64
 !s110 1603002072
 !i10b 1
 !s100 T;Df7ga6@0FQ=hm?WmJE]2
-R3
+!s11b Sdbzlzl3:e>gJ7_OaYoaF1
 Ii=`UoeRJSPklEzPdM>CZP1
-R4
-R5
+R2
+R3
 w1603001939
-R7
-R8
+R5
+R6
 !i122 -1
 L0 1
-R9
+R7
 r1
 !s85 0
 31
 !s108 1603002072.000000
-R11
-R12
+R9
+R10
 !i113 0
-R13
-R1
+R11
+R0
 n@full@adder64
 vmain
-R2
+R1
 !i10b 1
-!s100 JBFWhYDcI32FhkEZ47J5`1
+!s100 XQU:0BFLUH=lSf9VjHLzS3
 !s11b T8881mmC256eneU]:jzCN3
-I]fOKMVXW74z1dSo;dWdNl1
+I5_C73m]kQ[>V^3^>N`dEO2
+R2
+R3
 R4
 R5
 R6
-R7
-R8
 !i122 -1
-L0 10
-R9
+L0 13
+R7
 r1
 !s85 0
 31
+R8
+R9
 R10
-R11
-R12
 !i113 0
-R13
-R1
+R11
+R0
