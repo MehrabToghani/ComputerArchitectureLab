@@ -1,8 +1,0 @@
-module DFlipFlop (Data, Clock, Q, QNot);
-	input wire Data, Clock;
-	output Q, QNot;
-	always @( posedge Clock) begin
-		Q = D;
-		QNot = ~D;
-	end
-endmodule
