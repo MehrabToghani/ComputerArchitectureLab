@@ -1,8 +1,8 @@
 # Multiplexer
-Multiplexer 4 to 1
+Multiplexer 4 to 1 and Multiplexer 2 to 1
 
 
-## TestBench result
+## TestBench result (Mux4to1)
 ```
 W = 4 input wires
 S = 2 switch wires
