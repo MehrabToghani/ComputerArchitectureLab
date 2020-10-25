@@ -1,13 +1,6 @@
-C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/Multiplexer/Mux4to1_TB.v {1 {vlog -work work -vopt -stats=none C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/Multiplexer/Mux4to1_TB.v
+C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/ShiftRegister/ShiftRegister.v {1 {vlog -work work -vopt -stats=none {C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\ShiftRegister\ShiftRegister.v}
 Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
 -- Compiling module Mux4to1
--- Compiling module Mux4to1_TB
-
-Top level modules:
-	Mux4to1_TB
-
-} {} {}} C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/ShiftRegister/ShiftRegister.v {1 {vlog -work work -vopt -stats=none C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/ShiftRegister/ShiftRegister.v
-Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
 -- Compiling module DFlipFlop
 -- Compiling module ShiftRegister
 
@@ -20,6 +13,25 @@ Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
 
 Top level modules:
 	ClockGenerator
+
+} {} {}} C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/Multiplexer/Mux4to1_TB.v {1 {vlog -work work -vopt -stats=none C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/Multiplexer/Mux4to1_TB.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module Mux4to1
+-- Compiling module Mux4to1_TB
+
+Top level modules:
+	Mux4to1_TB
+
+} {} {}} C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/ShiftRegister/ShiftRegister_TB.v {1 {vlog -work work -vopt -stats=none C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/ShiftRegister/ShiftRegister_TB.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module Mux4to1
+-- Compiling module DFlipFlop
+-- Compiling module ShiftRegister
+-- Compiling module ClockGenerator
+-- Compiling module ShiftRegister_TB
+
+Top level modules:
+	ShiftRegister_TB
 
 } {} {}} C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/DFlipFlop/DFlipFlop.v {1 {vlog -work work -vopt -stats=none C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/DFlipFlop/DFlipFlop.v
 Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019

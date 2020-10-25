@@ -40,73 +40,170 @@ n@_opt2
 R4
 R0
 T_opt3
-!s110 1603738507
-VC7Ph<EOdoLLQHVoP;3^2R2
-04 10 4 work Mux4to1_TB fast 0
-=1-e03f49d95cdd-5f971b8b-119-3238
+!s110 1603774913
+VQ8E>F9Md2V;Pb;zkbd5aF2
+04 16 4 work ShiftRegister_TB fast 0
+=1-e03f49d95cdd-5f97a9c1-2c5-254
 R2
 R3
 n@_opt3
 R4
+R0
 vClockGenerator
-Z5 !s110 1603737800
+!s110 1603775694
 !i10b 1
 !s100 ]0<_PMNL[H<C_6PE9NemC1
 !s11b 5?l_`gK;QI<c@E]ldG0?P1
-IF;cJHZfT@Km:<W3VXBDki0
-Z6 VDg1SIo80bB@j0V0VzS_@n1
-Z7 dC:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister
-w1603387489
-8C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\DFlipFlop\..\ClockGenerator\ClockGenerator.v
-FC:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\DFlipFlop\..\ClockGenerator\ClockGenerator.v
+I_5K]_9fRCeMSTgJK<jN^I0
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dC:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister
+Z7 w1603739339
+8C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\ShiftRegister\..\ClockGenerator\ClockGenerator.v
+FC:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\ShiftRegister\..\ClockGenerator\ClockGenerator.v
 !i122 -1
 L0 1
 Z8 OL;L;2019.4;69
 r1
 !s85 0
 31
-Z9 !s108 1603737800.000000
-Z10 !s107 C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\DFlipFlop\..\ClockGenerator\ClockGenerator.v|C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\DFlipFlop\..\DFlipFlop\DFlipFlop.v|C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/DFlipFlop/DFlipFlop_TB.v|
-Z11 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/DFlipFlop/DFlipFlop_TB.v|
+Z9 !s108 1603775694.000000
+Z10 !s107 C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\ShiftRegister\..\ClockGenerator\ClockGenerator.v|C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\ShiftRegister\..\DFlipFlop\DFlipFlop.v|C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\ShiftRegister\..\Multiplexer\Mux4to1.v|C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\ShiftRegister\ShiftRegister.v|C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/ShiftRegister/ShiftRegister_TB.v|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/ShiftRegister/ShiftRegister_TB.v|
 !i113 0
 Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
 R3
 n@clock@generator
 vDFlipFlop
-Z13 !s110 1603737865
+Z13 !s110 1603775798
 !i10b 1
 !s100 f:4VQ?3iOiCj1j;GmSVE;3
 !s11b klVZ:7`XI5C33n@4C`^Z[0
-IQNQ^XVB2QIVAk?gG<Lf^K0
+IFHU62di2OSVD>>`Q7`DKg1
+R5
 R6
 R7
-w1603369896
-8C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\Multiplexer\..\DFlipFlop\DFlipFlop.v
-FC:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\Multiplexer\..\DFlipFlop\DFlipFlop.v
+8C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\ShiftRegister\..\DFlipFlop\DFlipFlop.v
+FC:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\ShiftRegister\..\DFlipFlop\DFlipFlop.v
 !i122 -1
 L0 1
 R8
 r1
 !s85 0
 31
-Z14 !s108 1603737865.000000
-Z15 !s107 C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\Multiplexer\..\DFlipFlop\DFlipFlop.v|C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\Multiplexer\Mux4to1.v|C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/Multiplexer/Mux4to1_TB.v|
-Z16 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/Multiplexer/Mux4to1_TB.v|
+Z14 !s108 1603775798.000000
+!s107 C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\ShiftRegister\..\DFlipFlop\DFlipFlop.v|C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\ShiftRegister\..\Multiplexer\Mux4to1.v|C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\ShiftRegister\ShiftRegister.v|
+Z15 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\ShiftRegister\ShiftRegister.v|
 !i113 0
 R12
 R3
 n@d@flip@flop
 vDFlipFlop_TB
-R5
+!s110 1603745503
 !i10b 1
 !s100 QkT<]?79V>K<Bi^Z1coLE2
 !s11b OI42A8YJ=>_903U2SN?fc2
 I0_=n7BkB?BLLHNXEgf3QN3
+R5
 R6
 R7
-w1603731679
 8C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/DFlipFlop/DFlipFlop_TB.v
 FC:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/DFlipFlop/DFlipFlop_TB.v
+!i122 -1
+L0 4
+R8
+r1
+!s85 0
+31
+!s108 1603745503.000000
+!s107 C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\DFlipFlop\..\ClockGenerator\ClockGenerator.v|C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\DFlipFlop\..\DFlipFlop\DFlipFlop.v|C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/DFlipFlop/DFlipFlop_TB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/DFlipFlop/DFlipFlop_TB.v|
+!i113 0
+R12
+R3
+n@d@flip@flop_@t@b
+vMux4to1
+R13
+!i10b 1
+!s100 0k@2Ybk9kOF6n5kVEEo]02
+!s11b oF3meEA@mQX7nHcN>8Pec3
+I3A`V;;_EV4eZzC1n1Y=RP3
+R5
+R6
+R7
+8C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\ShiftRegister\..\Multiplexer\Mux4to1.v
+FC:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\ShiftRegister\..\Multiplexer\Mux4to1.v
+!i122 -1
+L0 1
+R8
+r1
+!s85 0
+31
+R14
+Z16 !s107 C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\ShiftRegister\..\DFlipFlop\DFlipFlop.v|C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\ShiftRegister\..\Multiplexer\Mux4to1.v|C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\ShiftRegister\ShiftRegister.v|
+R15
+!i113 0
+R12
+R3
+n@mux4to1
+vMux4to1_TB
+!s110 1603774814
+!i10b 1
+!s100 U36cDc11:B4^k]=FD^S<e1
+!s11b zD>8BYdfJf>a:_6C9hz132
+IYkU08ik_YCCX48KEUlcAL2
+R5
+R6
+R7
+8C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/Multiplexer/Mux4to1_TB.v
+FC:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/Multiplexer/Mux4to1_TB.v
+!i122 -1
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1603774813.000000
+!s107 C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\Multiplexer\Mux4to1.v|C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/Multiplexer/Mux4to1_TB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/Multiplexer/Mux4to1_TB.v|
+!i113 0
+R12
+R3
+n@mux4to1_@t@b
+vShiftRegister
+R13
+!i10b 1
+!s100 1UWSgo_LAa5IISea_g3g[0
+!s11b eXeNDNBzi>o<UYe<4FJi;3
+I=VM_[A`Q`8z33L=lB9kFk0
+R5
+R6
+w1603775790
+8C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\ShiftRegister\ShiftRegister.v
+FC:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\ShiftRegister\ShiftRegister.v
+!i122 -1
+L0 8
+R8
+r1
+!s85 0
+31
+R14
+R16
+R15
+!i113 0
+R12
+R3
+n@shift@register
+vShiftRegister_TB
+!s110 1603775695
+!i10b 1
+!s100 4`RYEe3dj95B;4`K;KTPm1
+!s11b kl7hig:FAR;_:E7ZY25U`2
+Igz1:ZC;3ZeKgW=^H9ie>W0
+R5
+R6
+w1603775580
+8C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/ShiftRegister/ShiftRegister_TB.v
+FC:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/ShiftRegister/ShiftRegister_TB.v
 !i122 -1
 L0 4
 R8
@@ -119,76 +216,4 @@ R11
 !i113 0
 R12
 R3
-n@d@flip@flop_@t@b
-vMux4to1
-Z17 !s110 1603738500
-!i10b 1
-!s100 0k@2Ybk9kOF6n5kVEEo]02
-!s11b oF3meEA@mQX7nHcN>8Pec3
-I9k[2]HG[n2AZUF?PQ7AFF0
-R6
-R7
-w1603738033
-Z18 8C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\Multiplexer\Mux4to1.v
-Z19 FC:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\Multiplexer\Mux4to1.v
-!i122 -1
-L0 1
-R8
-r1
-!s85 0
-31
-Z20 !s108 1603738500.000000
-Z21 !s107 C:\Users\Mehrab\Documents\ModelSim\ComputerArchitectureLab\ShiftRegister\Multiplexer\Mux4to1.v|C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/Multiplexer/Mux4to1_TB.v|
-R16
-!i113 0
-R12
-R3
-n@mux4to1
-vMux4to1_TB
-R17
-!i10b 1
-!s100 U36cDc11:B4^k]=FD^S<e1
-!s11b zD>8BYdfJf>a:_6C9hz132
-IYkU08ik_YCCX48KEUlcAL2
-R6
-R7
-w1603738497
-8C:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/Multiplexer/Mux4to1_TB.v
-FC:/Users/Mehrab/Documents/ModelSim/ComputerArchitectureLab/ShiftRegister/Multiplexer/Mux4to1_TB.v
-!i122 -1
-L0 3
-R8
-r1
-!s85 0
-31
-R20
-R21
-R16
-!i113 0
-R12
-R3
-n@mux4to1_@t@b
-vShiftRegister
-R13
-!i10b 1
-!s100 ]NWelg0FB6ooI7D1_B>6[2
-!s11b [jEEAgh3ffcX4Afako>fZ1
-IF3AZhP?NNTRZF0<jBd>E92
-R6
-R7
-w1603735464
-R18
-R19
-!i122 -1
-L0 3
-R8
-r1
-!s85 0
-31
-R14
-R15
-R16
-!i113 0
-R12
-R3
-n@shift@register
+n@shift@register_@t@b

@@ -15,7 +15,7 @@ module Mux4to1_TB;
 				s = i[1:0];
 				w = i;
 				#10
-				$display ("| %4b  |   %.1d   |   %.1d   |" , w , s , f);
+				$display ("| %4b  |   %1d   |   %1d   |" , w , s , f);
 				$display ("|~~~~~~~|~~~~~~~|~~~~~~~|");
 		end
 	end
