@@ -1,4 +1,5 @@
 # Shift ShiftRegister
+n bit ShiftRegister.
 Abilities:
 - enable or disable shifting
 - shift left and right
@@ -34,7 +35,7 @@ No Change
 1001 
 ```
 
-## DFlipFlop TestBench result
+## DFlipFlop (Sensitive to the positive edge) TestBench result
 ```
 _________________________________ 
 | Clock | Data  |   Q   |  ~Q   |
@@ -73,7 +74,7 @@ _________________________________
 |~~~~~~~|~~~~~~~|~~~~~~~|~~~~~~~| 
 ```
 
-# Multiplexer TestBench result
+# Multiplexer (4 to 1) TestBench result
 ```
 _________________________ 
 |   W   |   S   |   F   | 
