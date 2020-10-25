@@ -1,6 +1,14 @@
-#TestBench results
+# Shift ShiftRegister
+```
+Abilities:
+- enable or disable shifting
+- shift left and right
+- parallel Load
+```
 
-##ShiftRegister TestBench result
+# TestBench results
+
+## ShiftRegister TestBench result
 ```
 xxxx
 Load 1101
@@ -66,7 +74,7 @@ _________________________________
 |~~~~~~~|~~~~~~~|~~~~~~~|~~~~~~~| 
 ```
 
-#Multiplexer TestBench result
+# Multiplexer TestBench result
 ```
 _________________________ 
 |   W   |   S   |   F   | 
