@@ -27,7 +27,7 @@ module ShiftRegister_TB;
         end
         if (i == 3) begin
             $display("%4b" , q);
-            $display("-----     Right Shift 1 (it is inverse in numerical representation)");
+            $display("-----     Left Shift 1");
             r = 0;
             s = 1;
             w = 1;
@@ -42,7 +42,7 @@ module ShiftRegister_TB;
         end
         if (i == 8) begin
             $display("%4b" , q);
-            $display("-----     Left Shift 1 (it is inverse in numerical representation)");
+            $display("-----     Right Shift 1");
             r = 0;
             s = 2;
             w = 1;

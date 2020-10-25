@@ -13,14 +13,14 @@ Abilities:
 # 1101 
 # -----     Reset
 # 0000 
-# -----     Right Shift 1 (it is inverse in numerical representation)
+# -----     Left Shift 1
 # 0001
 # 0011 
 # 0111 
 # 1111 
 # -----     Reset
 # 0000 
-# -----     Left Shift 1 (it is inverse in numerical representation)
+# -----     Right Shift 1
 # 1000 
 # 1100 
 # 1110 

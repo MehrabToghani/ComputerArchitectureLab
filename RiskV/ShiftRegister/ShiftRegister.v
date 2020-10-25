@@ -2,8 +2,8 @@
 `include "DFlipFlop/DFlipFlop.v"
 
 // Status = 0 No Change
-// Status = 1 Right Shift
-// Status = 2 Left Shift
+// Status = 1 Left Shift
+// Status = 2 Right Shift
 // Status = 3 Load
 module ShiftRegister(I, Status, W, Clock, Reset, Q);
     parameter n=1;
