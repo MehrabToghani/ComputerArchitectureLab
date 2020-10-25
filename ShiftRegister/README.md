@@ -1,6 +1,6 @@
-<h2> TestBench results</h2>
+#TestBench results
 
-<h3> ShiftRegister TestBench result </h3>
+##ShiftRegister TestBench result
 ```
 xxxx
 Load 1101
@@ -27,7 +27,7 @@ No Change
 1001 
 ```
 
-<h3> DFlipFlop TestBench result <h3>
+## DFlipFlop TestBench result
 ```
 _________________________________ 
 | Clock | Data  |   Q   |  ~Q   |
@@ -66,7 +66,7 @@ _________________________________
 |~~~~~~~|~~~~~~~|~~~~~~~|~~~~~~~| 
 ```
 
-<h3> Multiplexer TestBench result </h3>
+#Multiplexer TestBench result
 ```
 _________________________ 
 |   W   |   S   |   F   | 
