@@ -1,0 +1,8 @@
+**/work
+**/*.v.bak
+**/*.mpf
+**/*.xml
+**/*.iml
+**/*.cr.mti
+/.idea
+**/*.out
