@@ -1,5 +1,5 @@
 # Memory
-Custom size Memory with the ability to read and write
+Custom size Memory with the ability to async read and sync write
 
 ## TestBench result
 In this test, a register gives its output as an address to the memory, memory reads the data and gives it to the full adder, full adder add the data with one and returns it to the register.  
