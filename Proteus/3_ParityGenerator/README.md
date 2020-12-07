@@ -9,8 +9,8 @@ an odd parity bit also.
 Truth table, Karnaugh map, simplify, implementation with Xor gates and other information in the **[Document file](Document.pdf)**.
 The circuits Proteus files are in the **[simple circuit](ParityGenerator_Simple.pdsprj)** and **[expanded circuit](ParityGenerator_Expanded.pdsprj)**.
 
-### Proteus simple circuit
+### Proteus simple circuit (Just even parity)
 ![alt text](circuit_simple.png "ParityGenerator simple circuit")
 
-### Proteus expanded circuit
+### Proteus expanded circuit (even and odd parity)
 ![alt text](circuit_expanded.png "ParityGenerator expanded circuit")
