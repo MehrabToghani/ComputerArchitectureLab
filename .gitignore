@@ -6,3 +6,4 @@
 **/*.cr.mti
 /.idea
 **/*.out
+*.workspace
