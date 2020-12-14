@@ -6,3 +6,5 @@
 **/*.cr.mti
 /.idea
 **/*.out
+*.workspace
+*.pdsbak
