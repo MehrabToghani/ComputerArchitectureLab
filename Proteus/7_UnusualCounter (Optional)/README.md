@@ -1,4 +1,6 @@
-# UnusualCounter
+# UnusualCounter (**Optional**)
+
+**This is an optional exercise.**
 
 ## Question
  Design, construct, and test a counter that goes through the following sequence of binary
